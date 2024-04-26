@@ -1,11 +1,11 @@
 {
   "TRAIN_NO": "06136",
   "TRAIN_COACH": "2S",
-  "TRAVEL_DATE": "27/04/2024",
+  "TRAVEL_DATE": "23/08/2024",
   "SOURCE_STATION": "MTP",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "UAM",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
